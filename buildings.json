@@ -1,0 +1,24 @@
+https://raw.githubusercon{
+  "version": "1.0",
+  "buildings": [
+    {
+      "id": "modern-house-01",
+      "title_ar": "فيلا الكوارتز العصرية",
+      "title_en": "Modern Quartz Villa",
+      "category": "MODERN",
+      "description_ar": "مبنى هولوغرامي عصري يتميز بمسبح زجاجي وغرف مؤثثة بالكامل.",
+      "description_en": "Modern luxury quartz villa hologram blueprint with infinity pool.",
+      "cover_url": "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/buildings/modern-house/cover.png",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/buildings/modern-house/preview1.png"
+      ],
+      "mcpack_url": "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/buildings/modern-house/building.mcpack",
+      "file_size_mb": 8.5,
+      "author": "HoloArchitect",
+      "minecraft_version": "v1.20 - v1.21+ Bedrock",
+      "coordinates": "X: 120, Y: 70, Z: -50",
+      "dimensions": "48 x 48 x 36",
+      "is_hologram": true
+    }
+  ]
+}
