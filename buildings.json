@@ -1,4 +1,4 @@
-https://raw.githubusercon{
+{
   "version": "1.0",
   "buildings": [
     {
@@ -8,11 +8,11 @@ https://raw.githubusercon{
       "category": "MODERN",
       "description_ar": "مبنى هولوغرامي عصري يتميز بمسبح زجاجي وغرف مؤثثة بالكامل.",
       "description_en": "Modern luxury quartz villa hologram blueprint with infinity pool.",
-      "cover_url": "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/buildings/modern-house/cover.png",
+      "cover_url": "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/1794353732967.jpg",
       "preview_urls": [
-        "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/buildings/modern-house/preview1.png"
+        "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/1794354078762.jpg"
       ],
-      "mcpack_url": "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/buildings/modern-house/building.mcpack",
+      "mcpack_url": "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/holo_tower_survival_01.mcpack",
       "file_size_mb": 8.5,
       "author": "HoloArchitect",
       "minecraft_version": "v1.20 - v1.21+ Bedrock",
