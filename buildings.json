@@ -21,4 +21,24 @@
       "is_hologram": true
     }
   ]
-}
+},
+    {
+      "id": "holo-house-survival-01",
+      "title_ar": "منزل البقاء الخشبي",
+      "title_en": "Survival Wooden House",
+      "category": "SURVIVAL",
+      "description_ar": "منزل بقاء خشبي دافئ ومفصل بالكامل مع منطقة تخزين وصناعة.",
+      "description_en": "Cozy survival wooden house blueprint with storage and crafting area.",
+      "cover_url": "https://raw.githubusercontent.com/idrrahamza-jpg/Minecraft-Hologram-Library/main/1794692225951.jpg",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/idrrahamza-jpg/Minecraft-Hologram-Library/main/1794692496822.jpg",
+        "https://raw.githubusercontent.com/idrrahamza-jpg/Minecraft-Hologram-Library/main/1794692508319.jpg"
+      ],
+      "mcpack_url": "https://raw.githubusercontent.com/idrrahamza-jpg/Minecraft-Hologram-Library/main/holo_house_survival_01.mcpack",
+      "file_size_mb": 7.4,
+      "author": "HoloArchitect",
+      "minecraft_version": "v1.20 - v1.21+ Bedrock",
+      "coordinates": "X: 100, Y: 64, Z: 20",
+      "dimensions": "32 x 32 x 28",
+      "is_hologram": true
+    }
