@@ -8,20 +8,18 @@
       "category": "MODERN",
       "description_ar": "مبنى هولوغرامي عصري يتميز بمسبح زجاجي وغرف مؤثثة بالكامل.",
       "description_en": "Modern luxury quartz villa hologram blueprint with infinity pool.",
-      "cover_url": "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/1794353732967.jpg",
+      "cover_url": "https://raw.githubusercontent.com/idrrahamza-jpg/Minecraft-Hologram-Library/main/1794353732967.jpg",
       "preview_urls": [
-        "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/1794354078762.jpg"
+        "https://raw.githubusercontent.com/idrrahamza-jpg/Minecraft-Hologram-Library/main/1794354078762.jpg"
       ],
-      "mcpack_url": "https://raw.githubusercontent.com/idrrahamza/Minecraft-Hologram-Library/main/holo_tower_survival_01.mcpack",
+      "mcpack_url": "https://raw.githubusercontent.com/idrrahamza-jpg/Minecraft-Hologram-Library/main/holo_tower_survival_01.mcpack",
       "file_size_mb": 8.5,
       "author": "HoloArchitect",
       "minecraft_version": "v1.20 - v1.21+ Bedrock",
       "coordinates": "X: 120, Y: 70, Z: -50",
       "dimensions": "48 x 48 x 36",
       "is_hologram": true
-    }
-  ]
-},
+    },
     {
       "id": "holo-house-survival-01",
       "title_ar": "منزل البقاء الخشبي",
@@ -42,3 +40,5 @@
       "dimensions": "32 x 32 x 28",
       "is_hologram": true
     }
+  ]
+}
